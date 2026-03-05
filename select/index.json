@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月時雨",
+  "base_artist": "幸祜",
+  "createdAt": "2026-03-05T05:46:16.734628Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月時雨",
+      "artist": "幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_月時雨_幸祜.txt"
+    }
+  ]
+}
